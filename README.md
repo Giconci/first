@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -39,3 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # Loja
 Loja de roupas e calçados feita em Next.js
 >>>>>>> e3740454c9dd548f5d9e2bbade2b12dc230ee94d
+=======
+# first
+>>>>>>> 68d953147407a5fa4d5d1301cbe5bb8e3b0d03e8
